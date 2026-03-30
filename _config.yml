@@ -27,7 +27,7 @@ author:
   name             : "Guillem Cazassus"
   pronouns         : "he/him"  
   bio              : "Postdoc"
-  location         : #"CUHK"
+#  location         : #"CUHK"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "gcazassus@proton.me" 
