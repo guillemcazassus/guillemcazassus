@@ -9,15 +9,25 @@ redirect_from:
 
 Welcome! I am a postdoc at the [Institute for Mathematical Sciences](http://www.ims.cuhk.edu.hk/) at [CUHK](https://www.math.cuhk.edu.hk/), where I am working with [Naichung Conan Leung](https://www.math.cuhk.edu.hk/people/academic-staff/leung) and [Michael McBreen](https://sites.google.com/view/mmcbreen/home).
 
-
-Preprints
+Papers
 =
-1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239). J. Symplectic Geom., 17(1):93-177, 2019
+Preprints
+-
+1. 
 1. Test ... 
 1. Test ...
 Accepted, Published
-=
-1. Test ...
+-
+1. Guillem Cazassus. Equivariant Lagrangian Floer homology via cotangent bundles of EGN .
+, 17(1):e12328
+1. Guillem Cazassus, Christopher Herald, Paul Kirk, and Artem Kotelskiy. The correspon-
+dence induced on the pillowcase by the earring tangle.
+, 15(4):24722543, 2022
+1. Guillem Cazassus. A two-category of Hamiltonian manifolds, and a (1 + 1 + 1) eld theory.
+, 72(5):21012144, 2023
+1. Guillem Cazassus. Symplectic instanton homology: naturality, and maps from cobordisms.
+, 10(4):677722, 2019
+1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239). J. Symplectic Geom., 17(1):93-177, 2019
 2. htth
 
 1. Test ... 
