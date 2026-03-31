@@ -39,9 +39,11 @@ Publ., Berkeley, CA, 2022
 
 Miscellaneous
 --
-
-
-
+- My PhD Thesis, slides
+- Some lecture notes for the graduate course I taught at IU in spring 2020 on Fukaya categories. I put them here in case they might be helpful, although these are handwritten and might contain mistakes: use at your own risk! 
+- Some slides on a quick introduction to Symplectic Geometry and pseudoholomorphic curves for a preparatory talk to a winter school on Morse/ Floer theory and Fukaya categories I helped to organize.
+- Some slides for a reading seminar on Haydys's paper Fukaya-Seidel category and gauge theory I co-organized with Jason Lotay 1 2 3 4 5 .
+- Slides on Donaldson's diagonalizability theorem (my favorite one): this one was for a colloquium at James Madison University, and was aimed to be accessible to undergraduate students. This other one was for a talk at Oxford's joint geometry and physics junior seminar, and contains more details.
 
 
 
