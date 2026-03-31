@@ -22,16 +22,16 @@ Papers
 
 **Accepted, Published**
 
-1. Guillem Cazassus. [Equivariant Lagrangian Floer homology via cotangent bundles of $$EG_N$$](https://arxiv.org/abs/2202.10097), J. Topol., 17(1):e12328.
-1. Guillem Cazassus, Christopher Herald, Paul Kirk, and Artem Kotelskiy. [The correspondence induced on the pillowcase by the earring tangle](https://arxiv.org/abs/2010.04320), J. Topol., 15(4):2472-2543, 2022.
-1. Guillem Cazassus. [A two-category of Hamiltonian manifolds, and a (1 + 1 + 1) field theory](https://arxiv.org/abs/1903.10686), Indiana Univ. Math. J., 72(5):2101-2144, 2023.
-1. Guillem Cazassus. [Symplectic instanton homology: naturality, and maps from cobordisms](https://arxiv.org/abs/1710.03872), Quantum Topol., 10(4):677-722, 2019.
-1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239), J. Symplectic Geom., 17(1):93-177, 2019.
+1. Guillem Cazassus. [Equivariant Lagrangian Floer homology via cotangent bundles of $$EG_N$$](https://arxiv.org/abs/2202.10097), *J. Topol.*, 17(1):e12328.
+1. Guillem Cazassus, Christopher Herald, Paul Kirk, and Artem Kotelskiy. [The correspondence induced on the pillowcase by the earring tangle](https://arxiv.org/abs/2010.04320), *J. Topol.*, 15(4):2472-2543, 2022.
+1. Guillem Cazassus. [A two-category of Hamiltonian manifolds, and a (1 + 1 + 1) field theory](https://arxiv.org/abs/1903.10686), *Indiana Univ. Math. J.*, 72(5):2101-2144, 2023.
+1. Guillem Cazassus. [Symplectic instanton homology: naturality, and maps from cobordisms](https://arxiv.org/abs/1710.03872), *Quantum Topol.*, 10(4):677-722, 2019.
+1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239), *J. Symplectic Geom.*, 17(1):93-177, 2019.
 
 **Conference proceedings**
 
 1. Guillem Cazassus, Chris Herald, and Paul Kirk. [Tangles, relative character varieties, and
-holonomy perturbed traceless at moduli spaces](https://arxiv.org/abs/2102.00901). In Gauge theory and low-dimensional topology-progress and interaction, volume 5 of Open Book Series, pages 95-121. Math. Sci. Publ., Berkeley, CA, 2022.
+holonomy perturbed traceless at moduli spaces](https://arxiv.org/abs/2102.00901). In *Gauge theory and low-dimensional topology-progress and interaction*, volume 5 of *Open Book Series*, pages 95-121. Math. Sci. Publ., Berkeley, CA, 2022.
 
 
 Miscellaneous
