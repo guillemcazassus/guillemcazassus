@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: https://arxiv.org/abs/1606.00239
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-#date: 2009-10-01
+date: 2009
 venue: 'J. Symplectic Geom. 17(1):93-177, 2019'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper1.pdf'
