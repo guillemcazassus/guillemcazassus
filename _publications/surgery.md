@@ -1,6 +1,6 @@
 ---
-title: [Symplectic instanton homology: twisting, connected sums, and Dehn
-surgery](https://arxiv.org/abs/1606.00239)
+title: '[Symplectic instanton homology: twisting, connected sums, and Dehn
+surgery](https://arxiv.org/abs/1606.00239)'
 collection: publications
 category: manuscripts
 #permalink: 'https://arxiv.org/abs/1606.00239'
