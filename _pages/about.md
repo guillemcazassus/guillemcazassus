@@ -20,7 +20,7 @@ Preprints
 
 Accepted, Published
 ---
-1. Guillem Cazassus. Equivariant Lagrangian Floer homology via cotangent bundles of EGN .
+1. Guillem Cazassus. Equivariant Lagrangian Floer homology via cotangent bundles of $$EG_N$$ .
 , 17(1):e12328
 1. Guillem Cazassus, Christopher Herald, Paul Kirk, and Artem Kotelskiy. The correspon-
 dence induced on the pillowcase by the earring tangle.
