@@ -11,14 +11,15 @@ Welcome! I am a postdoc at the [Institute for Mathematical Sciences](http://www.
 
 Papers
 =
+
 Preprints
--
+---
 1. 
 1. Test ... 
 1. Test ...
 
 Accepted, Published
--
+---
 1. Guillem Cazassus. Equivariant Lagrangian Floer homology via cotangent bundles of EGN .
 , 17(1):e12328
 1. Guillem Cazassus, Christopher Herald, Paul Kirk, and Artem Kotelskiy. The correspon-
