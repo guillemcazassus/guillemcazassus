@@ -31,10 +31,7 @@ Papers
 **Conference proceedings**
 
 1. Guillem Cazassus, Chris Herald, and Paul Kirk. [Tangles, relative character varieties, and
-holonomy perturbed traceless at moduli spaces](https://arxiv.org/abs/2102.00901). In
-, volume 5 of
-, pages 95121. Math. Sci.
-Publ., Berkeley, CA, 2022
+holonomy perturbed traceless at moduli spaces](https://arxiv.org/abs/2102.00901). In Gauge theory and low-dimensional topology-progress and interaction, volume 5 of Open Book Series, pages 95-121. Math. Sci. Publ., Berkeley, CA, 2022.
 
 
 Miscellaneous
