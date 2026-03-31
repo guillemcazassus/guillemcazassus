@@ -1,9 +1,9 @@
 ---
-title: "Symplectic instanton homology: twisting, connected sums, and Dehn
-surgery"
+title: "[Symplectic instanton homology: twisting, connected sums, and Dehn
+surgery](https://arxiv.org/abs/1606.00239)"
 collection: publications
 category: manuscripts
-permalink: 'https://arxiv.org/abs/1606.00239'
+#permalink: 'https://arxiv.org/abs/1606.00239'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-01-01
 venue: 'J. Symplectic Geom. 17(1):93-177'
