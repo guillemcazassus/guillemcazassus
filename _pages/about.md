@@ -9,17 +9,16 @@ redirect_from:
 
 Welcome! I am a postdoc at the [Institute for Mathematical Sciences](http://www.ims.cuhk.edu.hk/) at [CUHK](https://www.math.cuhk.edu.hk/), where I am working with [Naichung Conan Leung](https://www.math.cuhk.edu.hk/people/academic-staff/leung) and [Michael McBreen](https://sites.google.com/view/mmcbreen/home).
 
+Here is my cv, and a french version.
+
 Papers
 =
 
 Preprints
 ---
-1. Guillem Cazassus. [Equivariant Lagrangian Floer homology via multiplicative flow trees](https://arxiv.org/abs/2404.17393).
-, 2024
-1. Guillem Cazassus, Alexander Hock, and Thibaut Mazuir. [Bialgebras, and Lie monoid actions in Morse and Floer theory, I](https://arxiv.org/abs/2410.16225).
-, 2024
-1. Guillem Cazassus. [The Morse complex is an $$\infty$$-functor](https://arxiv.org/abs/2505.01362).
-, 2025
+1. Guillem Cazassus. [Equivariant Lagrangian Floer homology via multiplicative flow trees](https://arxiv.org/abs/2404.17393), 2024.
+1. Guillem Cazassus, Alexander Hock, and Thibaut Mazuir. [Bialgebras, and Lie monoid actions in Morse and Floer theory, I](https://arxiv.org/abs/2410.16225), 2024.
+1. Guillem Cazassus. [The Morse complex is an $$\infty$$-functor](https://arxiv.org/abs/2505.01362), 2025.
 1. Test ... 
 1. Test ...
 
@@ -44,28 +43,18 @@ holonomy perturbed traceless at moduli spaces](https://arxiv.org/abs/2102.00901
 , volume 5 of
 , pages 95121. Math. Sci.
 Publ., Berkeley, CA, 2022
-1. Test ... 
-1. Test ... 
-1. Test ... 
-1. Test ... 
 
 
-Test ... 
+Miscellaneous
 ==
 
-Test ... 
-===
 
-Test ... 
-====
 
-Test ... 
-=====
 
-Test ... 
-======
 
-Test ... This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
