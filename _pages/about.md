@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a postdoc at the [Institute for Mathematical Sciences](http://www.ims.cuhk.edu.hk/) at [CUHK](https://www.math.cuhk.edu.hk/), where I am working with [Naichung Conan Leung](https://www.math.cuhk.edu.hk/people/academic-staff/leung) and [Michael McBreen](https://sites.google.com/view/mmcbreen/home).
 
-Here is my cv, and a french version.
+Here is my [cv](files/cv_guillem_cazassus.pdf).
 
 Papers
 --
@@ -39,11 +39,11 @@ Publ., Berkeley, CA, 2022
 
 Miscellaneous
 --
-- My [PhD Thesis](https://arxiv.org/abs/1612.01446), and the [slides](/files/slides_soutenance.pdf)  [slides](files/slides_soutenance.pdf) of the defense.
-- Some lecture notes for the graduate course I taught at IU in spring 2020 on Fukaya categories. I put them here in case they might be helpful, although these are handwritten and might contain mistakes: use at your own risk! 
-- Some slides on a quick introduction to Symplectic Geometry and pseudoholomorphic curves for a preparatory talk to a winter school on Morse/ Floer theory and Fukaya categories I helped to organize.
-- Some slides for a reading seminar on Haydys's paper Fukaya-Seidel category and gauge theory I co-organized with Jason Lotay 1 2 3 4 5 .
-- Slides on Donaldson's diagonalizability theorem (my favorite one): this one was for a colloquium at James Madison University, and was aimed to be accessible to undergraduate students. This other one was for a talk at Oxford's joint geometry and physics junior seminar, and contains more details.
+- My [PhD Thesis](https://arxiv.org/abs/1612.01446), and the [slides](files/slides_soutenance.pdf) of the defense.
+- Some [lecture notes]() for the graduate course I taught at IU in spring 2020 on Fukaya categories. I put them here in case they might be helpful, although these are handwritten and might contain mistakes: use at your own risk! 
+- Some [slides]() on a quick introduction to Symplectic Geometry and pseudoholomorphic curves for a []()preparatory talk to a []()winter school on Morse/ Floer theory and Fukaya categories I helped to organize.
+- Some []()slides for a reading seminar on Haydys's paper Fukaya-Seidel category and gauge theory I co-organized with Jason Lotay [1](files/24-3_lefschetz_fibrations_fukaya_seidel.pdf)[2](files/7-4_morse_homology.pdf)[3](files/14-4_lagrangian_floer_homology_fukaya_categories.pdf)[4](files/21-4_derived_categories_Fukaya-Seidel_categories.pdf)[5](files/12-5_Fukaya-Seidel_categories.pdf).
+- Slides on Donaldson's diagonalizability theorem (my favorite one): [this one](files/colloquium_jmu.pdf) was for a colloquium at James Madison University, and was aimed to be accessible to undergraduate students. [This other one](files/joint_seminar_guillem_cazassus.pdf) was for a talk at Oxford's joint geometry and physics junior seminar, and contains more details.
 
 
 
