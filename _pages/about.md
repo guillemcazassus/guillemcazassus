@@ -14,12 +14,11 @@ Papers
 
 Preprints
 ---
-1. Guillem Cazassus. Equivariant Lagrangian Floer homology via multiplicative ow trees.
+1. Guillem Cazassus. [Equivariant Lagrangian Floer homology via multiplicative flow trees](https://arxiv.org/abs/2404.17393).
 , 2024
-1. Guillem Cazassus, Alexander Hock, and Thibaut Mazuir. Bialgebras, and Lie monoid
-actions in Morse and Floer theory, I.
+1. Guillem Cazassus, Alexander Hock, and Thibaut Mazuir. [Bialgebras, and Lie monoid actions in Morse and Floer theory, I](https://arxiv.org/abs/2410.16225).
 , 2024
-1. Guillem Cazassus. The Morse complex is an $$\infty$$-functor.
+1. Guillem Cazassus. [The Morse complex is an $$\infty$$-functor](https://arxiv.org/abs/2505.01362).
 , 2025
 1. Test ... 
 1. Test ...
