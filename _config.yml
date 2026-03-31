@@ -26,9 +26,9 @@ author:
   avatar           : "photo2.jpg"
   name             : "Guillem Cazassus"
   pronouns         : "he/him"  
-  bio              : "Postdoc"
+  bio              : "Postdoc at CUHK"
 #  location         : #"CUHK"
-  employer         : "CUHK"
+#  employer         : "CUHK"
   uri              : # URL
   email            : "gcazassus@proton.me" 
 
