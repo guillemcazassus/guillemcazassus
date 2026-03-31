@@ -2,7 +2,7 @@
 title: 'Symplectic instanton homology: twisting, connected sums, and Dehn
 surgery'
 collection: publications
-category: manuscripts
+category: preprints
 #permalink: 'https://arxiv.org/abs/1606.00239'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-01-01
