@@ -11,7 +11,7 @@ Welcome! I am a postdoc at the [Institute for Mathematical Sciences](http://www.
 
 
 
-1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239). J. Symplectic Geom., 17(1):93177, 2019
+1. Guillem Cazassus. [Symplectic instanton homology: twisting, connected sums, and Dehn surgery](https://arxiv.org/abs/1606.00239). J. Symplectic Geom., 17(1):93-177, 2019
 1. Test ... 
 1. Test ...
 
