@@ -1,0 +1,30 @@
+name: Generate Publications from Bib
+on: 
+  workflow_dispatch: # Permet de lancer le script manuellement
+  push:
+    paths:
+      - 'markdown_generator/*.bib' # Se lance si vous modifiez un fichier .bib
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pybtex # Requis par le script academicpages
+
+      - name: Run script
+        run: python markdown_generator/pubsFromBib.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-generate publications from BibTeX"
+          file_pattern: '_publications/*.md'
