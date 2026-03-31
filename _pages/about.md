@@ -39,7 +39,7 @@ Publ., Berkeley, CA, 2022
 
 Miscellaneous
 --
-- My PhD Thesis, slides
+- My PhD Thesis, and the [slides](/files/slides_soutenance.pdf)  [slides](files/slides_soutenance.pdf) of the defense.
 - Some lecture notes for the graduate course I taught at IU in spring 2020 on Fukaya categories. I put them here in case they might be helpful, although these are handwritten and might contain mistakes: use at your own risk! 
 - Some slides on a quick introduction to Symplectic Geometry and pseudoholomorphic curves for a preparatory talk to a winter school on Morse/ Floer theory and Fukaya categories I helped to organize.
 - Some slides for a reading seminar on Haydys's paper Fukaya-Seidel category and gauge theory I co-organized with Jason Lotay 1 2 3 4 5 .
