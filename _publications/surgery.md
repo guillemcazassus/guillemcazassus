@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 #permalink: 'https://arxiv.org/abs/1606.00239'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-excerpt: 'J. Symplectic Geom. 17(1):93-177'
+excerpt: 'J. Symplectic Geom. 17(1):93-177, 2019'
 date: 2019-01-01
 #venue: 'J. Symplectic Geom. 17(1):93-177'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
